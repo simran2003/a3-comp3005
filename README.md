@@ -6,7 +6,7 @@
 ###### **Simran Datta - 101278046**
 
 
-## Requirenments 
+## Requirements
 Ensure you have the following installed
 - Python 3.x
 - PostgreSQL
